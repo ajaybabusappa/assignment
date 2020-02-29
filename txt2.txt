@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 #include<header>
+=======
+#include<iostream>
+>>>>>>> Stashed changes
